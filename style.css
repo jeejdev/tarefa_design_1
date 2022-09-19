@@ -1,0 +1,11 @@
+div.preta{
+    display: flex;
+    width: 50%;
+    margin: 0 auto;
+    background-color: black;
+}
+
+p{
+    margin: 0 auto;
+    color:white;
+}
